@@ -26,7 +26,7 @@
         <h3>My Projects</h3>
         <Projects/>
     </div>
-
+   <div id="Contact">
     <div id="education">
         <h3>My Education</h3>
         <Education/>
@@ -41,6 +41,8 @@
         <h3>Contact Me</h3>
        <Contact/>
     </div>
+    
+   </div>
 
     <Footer/>
 
